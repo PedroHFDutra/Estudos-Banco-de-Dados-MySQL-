@@ -4,7 +4,9 @@ create database <nome_do_database>;  //Comando para invocar a criação do datab
 
 create table <nome_da_tabela> ( //Comando para invocar a criação da tabela do database, adicionando as colunas de dados a armazenar
 <info> <tipo_de_info>,
-<info> <tipo_de_info>
-<info> <tipo_de_info>
+<info> <tipo_de_info>,
+<info> <tipo_de_info>,
 <info> <tipo_de_info>
 );
+
+describe <nome_da_tabela>; //Comando para invocar as informações das colunas existentes
